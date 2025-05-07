@@ -52,4 +52,3 @@ Este repositório contém a solução completa para o teste técnico **Calculado
 * Utilizar Tailwind CSS ou CSS Modules para estilos mais robustos.
 * Melhorar acessibilidade e responsividade.
 
-```
